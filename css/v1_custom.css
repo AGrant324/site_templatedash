@@ -1,0 +1,24 @@
+.nav-tabs>li>a {
+  background-color:#707B7C; 
+  border-color: #777777;
+  padding: 10px;
+  color:#fff;
+  margin-right: 2px;
+  border-radius: 6px 6px 0 0;
+  text-decoration: none;
+  
+}
+
+.nav-tabs > li >a.active {
+  background-color: green !important;
+}
+
+.nav-tabs > li >a:hover.active {
+  background-color: green !important;
+}
+
+.nav-tabs>li>a:hover {
+  color:#fff;
+  border-color: #000000;
+  background-color: #2E4053;
+}
